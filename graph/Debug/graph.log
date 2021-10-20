@@ -1,0 +1,25 @@
+﻿  snakes_ladders.cpp
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 14 (11_30) CH 15 Unweighted Graphs\graph\snakes_ladders.cpp(29,31): error C2039: 'to_string': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\queue(22): message : see declaration of 'std'
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 14 (11_30) CH 15 Unweighted Graphs\graph\snakes_ladders.cpp(29,1): error C2660: 'State::to_string': function does not take 1 arguments
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 14 (11_30) CH 15 Unweighted Graphs\graph\snakes_ladders.cpp(28,12): message : see declaration of 'State::to_string'
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 14 (11_30) CH 15 Unweighted Graphs\graph\snakes_ladders.cpp(29,63): error C2039: 'to_string': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\queue(22): message : see declaration of 'std'
+  Source.cpp
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 14 (11_30) CH 15 Unweighted Graphs\graph\Source.cpp(36,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 14 (11_30) CH 15 Unweighted Graphs\graph\Source.cpp(54,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 14 (11_30) CH 15 Unweighted Graphs\graph\Graph.h(202,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 14 (11_30) CH 15 Unweighted Graphs\graph\Graph.h(201): message : while compiling class template member function 'void Graph<int>::printEdges(void)'
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 14 (11_30) CH 15 Unweighted Graphs\graph\Source.cpp(43): message : see reference to function template instantiation 'void Graph<int>::printEdges(void)' being compiled
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 14 (11_30) CH 15 Unweighted Graphs\graph\Source.cpp(41): message : see reference to class template instantiation 'Graph<int>' being compiled
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 14 (11_30) CH 15 Unweighted Graphs\graph\Graph.h(205,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 14 (11_30) CH 15 Unweighted Graphs\graph\Graph.h(251,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 14 (11_30) CH 15 Unweighted Graphs\graph\Graph.h(248): message : while compiling class template member function 'Tree Graph<int>::dfs(int)'
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 14 (11_30) CH 15 Unweighted Graphs\graph\Source.cpp(44): message : see reference to function template instantiation 'Tree Graph<int>::dfs(int)' being compiled
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 14 (11_30) CH 15 Unweighted Graphs\graph\Graph.h(261,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 14 (11_30) CH 15 Unweighted Graphs\graph\Graph.h(149,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 14 (11_30) CH 15 Unweighted Graphs\graph\Graph.h(143): message : while compiling class template member function 'void Graph<int>::createAdjacencyLists(int,std::vector<Edge,std::allocator<Edge>> &)'
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 14 (11_30) CH 15 Unweighted Graphs\graph\Graph.h(120): message : see reference to function template instantiation 'void Graph<int>::createAdjacencyLists(int,std::vector<Edge,std::allocator<Edge>> &)' being compiled
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 14 (11_30) CH 15 Unweighted Graphs\graph\Graph.h(116): message : while compiling class template member function 'Graph<int>::Graph(int,std::vector<Edge,std::allocator<Edge>>)'
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 14 (11_30) CH 15 Unweighted Graphs\graph\Source.cpp(41): message : see reference to function template instantiation 'Graph<int>::Graph(int,std::vector<Edge,std::allocator<Edge>>)' being compiled
+  Generating Code...
